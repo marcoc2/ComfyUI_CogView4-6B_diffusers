@@ -1,7 +1,8 @@
 # ComfyUI-Cog
 
-This is a custom node aiming to run CogView4 on diffusers while there is no official implementation on ComfyUI.
-You will need a updated version of diffusers and I don't know if updating it my break other stuff, so I advise you to make in a new instance of ComfyUI
+- This is a custom node aiming to run CogView4 on diffusers while there is no official implementation on ComfyUI.
+- You will need a updated version of diffusers and I don't know if updating it my break other stuff, so I advise you to make in a new instance of ComfyUI
+- There is no progress bar preview in this node
 
 ## Installation
 
