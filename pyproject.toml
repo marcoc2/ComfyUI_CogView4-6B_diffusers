@@ -1,0 +1,14 @@
+[project]
+name = "cogview4-6b_diffusers"
+description = "This is a custom node aiming to run CogView4 on diffusers while there is no official implementation on ComfyUI.\nNOTE: You will need a updated version of diffusers and I don't know if updating it my break other stuff, so I advise you to make in a new instance of ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/marcoc2/ComfyUI_CogView4-6B_diffusers"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_CogView4-6B_diffusers"
+Icon = ""
